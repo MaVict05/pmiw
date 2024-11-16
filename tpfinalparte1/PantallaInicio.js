@@ -1,4 +1,5 @@
 function PantallaInicio(){
+  background(255, 49, 49);
 image(inicio,46,26,547,305);
 for (let x = 0; x < width; x += 49) {
     for (let y = 0; y < height; y += 49) {
